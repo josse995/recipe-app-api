@@ -2,6 +2,7 @@
 ## Resume
 This is an application in which user and recipes are managed and recipes have ingredients and tags
 
+## Objectives
 Setting up a local development server with Docker  
 Writing a Python project using Test Driven Development  
 Building a REST API with advanced features such as uploading and viewing images  
